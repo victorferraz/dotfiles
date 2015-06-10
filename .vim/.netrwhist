@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/cashrox/Documents/dito/desenvolvimento/seuouvidovaleumchip/.idea'
+let g:netrw_dirhist_2='/Users/cashrox/Sites/whydigital/.git'
+let g:netrw_dirhist_3='/Users/cashrox/Sites'
